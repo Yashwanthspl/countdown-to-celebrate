@@ -47,6 +47,14 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        birthday: {
+          pink: "hsl(var(--birthday-pink))",
+          purple: "hsl(var(--birthday-purple))",
+          blue: "hsl(var(--birthday-blue))",
+          yellow: "hsl(var(--birthday-yellow))",
+          green: "hsl(var(--birthday-green))",
+          orange: "hsl(var(--birthday-orange))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
